@@ -58,9 +58,9 @@
   </reporting>
 <distributionManagement>
     <snapshotRepository>
-        <id>instance-00488c98</id>
-        <name>instance-00488c98-snapshots</name>
-        <url>http://169.44.9.243:8080/artifactory/ext-snapshot-local</url>
+        <id>instance-0047108e</id>
+        <name>instance-0047108e-snapshots</name>
+        <url>http://169.44.119.57:8080/artifactory/ext-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
