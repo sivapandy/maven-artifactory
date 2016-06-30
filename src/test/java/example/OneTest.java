@@ -5,9 +5,9 @@ import org.junit.Test;
 
 public class OneTest {
   @Test
-  public void testFoo() throws Exception {
+  public void testDemo() throws Exception {
     One one = new One();
-    assertEquals("foo", one.foo());
+    assertEquals("Welcome to Project Liberty Demo", one.Demo());
   }
 
 }
