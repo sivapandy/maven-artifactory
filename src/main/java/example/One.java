@@ -1,13 +1,13 @@
 package example;
 
 public class One {
-  String message = "foo";
+  String message = "Welcome to Project Liberty Demo";
 
-  public String foo() {
+  public String Demo() {
     return message;
   }
 
   public void uncoveredMethod() {
-    System.out.println(foo());
+    System.out.println(Demo());
   }
 }
